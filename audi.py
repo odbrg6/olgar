@@ -31,7 +31,6 @@ from help import *
 from telethon.tl.functions.messages import GetHistoryRequest
 from telethon.tl.functions.messages import ImportChatInviteRequest
 import requests
-from calcu import *
 
 
 # -
