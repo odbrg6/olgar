@@ -1,0 +1,10 @@
+telethon
+hijri_converter
+user_agent
+heroku3
+gitpython
+requests
+pytube
+youtube-search
+sqlalchemy
+asyncio
