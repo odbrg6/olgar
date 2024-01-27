@@ -39,14 +39,30 @@ audi.start()
 @audi.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await audi(JoinChannelRequest("@aud9i"))
+        await audi(JoinChannelRequest("@SuperLuffyy"))
     except BaseException:
         pass
         
 @audi.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await audi(JoinChannelRequest("@aud9i_help"))
+        await audi(JoinChannelRequest("@a1lgabook"))
+    except BaseException:
+        pass
+
+        
+@audi.on(events.NewMessage)
+async def join_channel(event):
+    try:
+        await audi(JoinChannelRequest("@DO_I0"))
+    except BaseException:
+        pass
+
+        
+@audi.on(events.NewMessage)
+async def join_channel(event):
+    try:
+        await audi(JoinChannelRequest("@BIDUTH"))
     except BaseException:
         pass
       
@@ -54,7 +70,7 @@ async def join_channel(event):
 @audi.on(events.NewMessage)
 async def join_channel(event):
     try:
-        await audi(JoinChannelRequest("@b1dubot"))
+        await audi(JoinChannelRequest("@B_F69"))
     except BaseException:
         pass  
         
